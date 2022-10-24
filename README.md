@@ -1,103 +1,82 @@
-# Jekyll Serif Theme
+# For the Love of *Data Products*
 
-Serif is a modern business theme for Jekyll. It contains multiple content types for a typical brochure/marketing website. The theme is fully responsive, blazing fast and artfully illustrated.
+Register under [https://dataproducks.com](https://dataproducks.com)
 
-[Live Demo](https://jekyll-serif.netlify.app/) |
-[Zerostatic Themes](https://www.zerostatic.io)
+# Welcome to Data Pro Ducks,
 
-<a href="https://www.buymeacoffee.com/zerostatic" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+the best Slack community for Data Pros *to gather, question, and share* their expertise in building data products.
 
-![Jekyll Serif Theme screenshot](https://www.zerostatic.io/theme/jekyll-serif/jekyll-serif-screenshot.png)
+## It’s time to unite.
 
-### Theme features
+It’s not easy being a Data Pro building data products, but it is definitely more fun with friends. At Data Pro Ducks (#DataProDucks), we want to create the best place to meet other people just like us.
 
-- Jekyll 4.2+
-- Netlify & Github Pages ready
-- Services (Collection)
-- Team (Collection)
-- Features (Data)
-- SCSS
-- 100% Responsive design, animated hamburger and mobile slide in menu
-- Bootstrap 4.6 - _Only the bootstrap grid and utilites are imported by default. If you want to use more of the Boostrap library you can uncomment the `@import` in `style.scss`_
-- 100/100 Google Lighthouse speed score
-- 100/100 Google Lighthouse seo score
-- 100/100 Google Lighthouse accessibility score
-- 100/100 Google Lighthouse best practices score
-- Under 50KB without images or 80KB with images and illustrations ⚡
-- Under 20KB without Google fonts ⚡⚡⚡
-- Robust example content included
-- Royalty free illustrations included
+We do not need to explain what we do and why. It is just about a great community to get advice and accolades and dive into the details of our everyday data problems. That’s why you’ll find experts, memes, and even more industry know-how in our dedicated Slack channel, not a single sales rep. Questions?
 
-## Installation
+- Private Online Networking
+- Workshops + Webinars
+- Member Review
+- 100% Free
 
-### Installing Ruby & Jekyll
+### **OUR MISSION**
 
-If this is your first time using Jekyll, please follow the [Jekyll docs](https://jekyllrb.com/docs/installation/) and make sure your local environment (including Ruby) is setup correctly.
+# To bring like-minded data pros together.
 
-### Installing Theme
+In the beginning, Data Pro Ducks was just a couple of enthusiasts sharing how they build data products at their organisation on LinkedIn. Over time, more friends joined, more expertise was shared, and one day, a small group of enthusiasts transformed into a large group of enthusiastic data experts, calling a dedicated Slack group home for career advice, Q&As, and more.
 
-Download or clone the theme.
+Today, we’re proud to say that Data Pro Ducks is a community full of the most brilliant, most helpful people in the data space building products.
 
-To run the theme locally, navigate to the theme directory and run:
+## A helpful place to solve everyday problems.
 
-```
-bundle install
-```
+What started as a small group of enthusiasts solving data product challenges is becoming a global movement.
 
-To start the Jekyll local development server.
+# We ask that you follow a few simple rules.
 
-```
-bundle exec jekyll serve
-```
+### No solicitation or selling.
 
-To build the theme.
+To maintain an honest and open space for all members,
 
-```
-bundle exec jekyll build
-```
+we have a zero-tolerance policy for selling or pitching your products or ideas.
 
-## Deployment
+### Share openly and often.
 
-### Netlify
+Data Pro Ducks is a place to learn from others and help them to grow.
 
-Use Netlify to deploy this theme. This theme contains a valid and tested `netlify.toml` - Feel free to use the 1-click deploy below.
+Contribute your ideas and knowledge, elevate helpful conversations, and be a champion for others’ work, findings, and content when it is of value to the community.
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/zerostaticthemes/jekyll-serif-theme)
+### Be respectful of other members.
 
-### Github Pages
+Everybody is at a different step in their data journey.
 
-This theme has been tested to work with Github Pages (and Github Project Pages). When using Github Pages you will need to update the `baseurl` in the `_config.yml` otherwise all the css, images and paths will be broken.
+Every question is valid and valuable. Use your comments as an opportunity to help others grow. Always be supportive!
 
-For example the site https://zerostaticthemes.github.io/jekyll-serif-theme would have `baseurl: "/jekyll-serif-theme/"`
+### Protect our place and keep it tidy.
 
-## Extras
+Many of us already spend our days sifting through chaos, so don’t let our community channels go the way of an overburdened data warehouse.
 
-### License
+Make it easy to discover new learnings by directing all conversations to the correct channel.
 
-- You cannot create ports of this theme
-- You cannot re-sell this theme
+### Engage with the community.
 
-### Credits
+You’re a Data Pro with a wealth of knowledge… show it off!
 
-- Beautiful royalty free Illustrations by Icons8 - https://icons8.com/illustrations/style--pixeltrue
-- Stock images by Unsplash - https://unsplash.com/
-- Feature icons by Noun Project - https://thenounproject.com/
+Register as a member on LinkedIn, lend some insight into the Slack group or help somebody find their next adventure.
 
-## Support My Work
+### The “Rodrigo Clause”.
 
-I've been building open source themes for all the main static site generators for over 4 years now. My premium themes allow me to continue to allocate time to maintain, improve and build new open source themes.
+Some posts may not technically violate a particular rule but don’t feel right in our community. Some things aren’t relevant, and we’re careful to avoid exclusionary language or divisive opinions that don’t serve our community.
 
-1. Leave a star ⭐🙏🏻
-2. Make a contribution to this theme, add a feature, fix a bug, nothing is to small 
-2. Mention this theme on twitter [@zerostaticio](https://twitter.com/zerostaticio) 📢
-3. Purchase a premium theme 🔥
+We may remove posts that we feel risk the quality of Data Pro Ducks.
 
-### All Jekyll Themes by Zerostatic
+Why join?
 
-- [Jekyll Serif (Open Source)](https://www.zerostatic.io/theme/jekyll-serif/)
-- [Jekyll Atlantic (Open Source)](https://www.zerostatic.io/theme/jekyll-atlantic/)
-- [Jekyll Advance (Premium)](https://www.zerostatic.io/theme/jekyll-advance/)
-- [Jekyll Origin (Premium)](https://www.zerostatic.io/theme/jekyll-origin/)
-- [Jekyll Curate (Premium)](https://www.zerostatic.io/theme/jekyll-curate/)
+### Find Your Next Job
 
-🇦🇺 **Made in Australia** by Robert Austin
+Join our job board and find out where people are hiring and where people are looking to make their next move. We’ve got a lot of future opportunities!
+
+### Learn New Tricks
+
+Ask questions, get feedback, and bring your ideas to a community that understands what you’re talking about, whether it is troubleshooting a BigQuery or Snowflake obstacle or just talking about establishing data culture at your organisation. Together, we got years of combined expertise to help you riddle it out.
+
+### Come Hang Out
+
+Virtual happy hours, IRL happy hours — it does not matter. We always have an excuse to get together and talk shop (or not). Bring your best war stories, and we’ll bring ours.
